@@ -1,0 +1,32 @@
+p {
+  color: blue;
+}
+#main {
+  background-color: azure;
+}
+.FirstParagraph {
+  color: crimson;
+}
+.HeaderName.HeaderAbout {
+  color: maroon;
+}
+ul li {
+  color: chocolate;
+  background-color: cadetblue;
+}
+h1 {
+  color: yellowgreen;
+}
+#Experience {
+  color: red;
+  background-color: azure;
+}
+.HeaderSecond {
+  color: chartreuse;
+}
+#Contacts {
+  color: blueviolet;
+}
+.Footer {
+  background-color: darkslategrey;
+}
